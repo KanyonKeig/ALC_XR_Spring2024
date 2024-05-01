@@ -1,0 +1,18 @@
+<html><body onload="document.forms[0].submit()">
+<form action="https://filter.nebo.edu/cgi-bin/blockpage/blockpage.cgi" method="GET">
+<input type="Hidden" name="URL" value="https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/corrugated_iron/corrugated_iron_nor_gl_1k.exr">
+<input type="Hidden" name="CAT" value="Arts:Culture (Global)">
+<input type="Hidden" name="CATNO" value="1004">
+<input type="Hidden" name="ACC" value="kanyon.k374/nebo">
+<input type="Hidden" name="WHY" value="Policy=students-policy; AD Group=all_student_igroups">
+<input type="Hidden" name="MOD" value="2">
+<input type="Hidden" name="APP" value="tiktok">
+<input type="Hidden" name="ISO" value="App Permanently Blocked">
+<input type="Hidden" name="IPA" value="160.7.2.102">
+<input type="Hidden" name="RAW" value="https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/corrugated_iron/corrugated_iron_nor_gl_1k.exr">
+<input type="Hidden" name="AUTH0" value=",Arts:Culture (Global)">
+<input type="Hidden" name="PGE" value="https://filter.nebo.edu/cgi-bin/blockpage/blockpage.cgi">
+<input type="Hidden" name="STR" value="null,null,null,null,null">
+<input type="Hidden" name="SRV" value="null">
+<input type="Hidden" name="AUTH1" value=",dl.polyhaven.org/file/ph-assets/Textures/exr/1k/corrugated_iron/corrugated_iron_nor_gl_1k.exr,Arts:Culture (Global)">
+</form></body></html>
